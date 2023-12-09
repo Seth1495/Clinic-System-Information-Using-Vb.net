@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0875BA51-1C9E-464F-B1C5-0FD54BF412D4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>TindakanObat.My.MyApplication</StartupObject>
+    <RootNamespace>TindakanObat</RootNamespace>
+    <AssemblyName>TindakanObat</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>TindakanObat.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>TindakanObat.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Guna.UI, Version=1.9.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Guna.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.Barcode, Version=1.8.3.0, Culture=neutral, PublicKeyToken=4d44dd7196d3c1ac, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MessagingToolkit.Barcode.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagingToolkit.QRCode, Version=1.0.3541.23206, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\MessagingToolkit.QRCode.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="WebCam_Capture, Version=1.0.2395.24959, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WebCam_Capture.dll</HintPath>
+    </Reference>
+    <Reference Include="zxing, Version=0.16.9.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.9\lib\net45\zxing.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="zxing.presentation, Version=0.16.9.0, Culture=neutral, PublicKeyToken=4e88037ac681fe60, processorArchitecture=MSIL">
+      <HintPath>..\packages\ZXing.Net.0.16.9\lib\net45\zxing.presentation.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Apotek.Designer.vb">
+      <DependentUpon>Apotek.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Apotek.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Barcodescan.Designer.vb">
+      <DependentUpon>Barcodescan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Barcodescan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cetakpenjualan.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Cetakpenjualan.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Connection.vb" />
+    <Compile Include="dataDokterForm.Designer.vb">
+      <DependentUpon>dataDokterForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="dataDokterForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dataLayananObat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dataLayananObat.Designer.vb">
+      <DependentUpon>dataLayananObat.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="doktercrv.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>doktercrv.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Dokterreport.Designer.vb">
+      <DependentUpon>Dokterreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Dokterreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExcelTransfer.Designer.vb">
+      <DependentUpon>ExcelTransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ExcelTransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Greeting.Designer.vb">
+      <DependentUpon>Greeting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Greeting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ID.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ID.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="IDDokter.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IDDokter.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="KartuDokter.Designer.vb">
+      <DependentUpon>KartuDokter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KartuDokter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LayananObat.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LayananObat.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="loginForm.Designer.vb">
+      <DependentUpon>loginForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="loginForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenuDokter.Designer.vb">
+      <DependentUpon>MainMenuDokter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenuDokter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Pasien.Designer.vb">
+      <DependentUpon>Pasien.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Pasien.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Penjualan.Designer.vb">
+      <DependentUpon>Penjualan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Penjualan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PenjualanStruk.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PenjualanStruk.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="QRscan.Designer.vb">
+      <DependentUpon>QRscan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="QRscan.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterForm.Designer.vb">
+      <DependentUpon>RegisterForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RegisterForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Periksa.Designer.vb">
+      <DependentUpon>Periksa.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Periksa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RekamMedis.Designer.vb">
+      <DependentUpon>RekamMedis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RekamMedis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RekamMedis2.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>RekamMedis2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.vb">
+      <DependentUpon>Report.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Report.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StrukBaru.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>StrukBaru.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TestMainUI.Designer.vb">
+      <DependentUpon>TestMainUI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestMainUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transaksi.Designer.vb">
+      <DependentUpon>Transaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Transaksi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Apotek.resx">
+      <DependentUpon>Apotek.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Barcodescan.resx">
+      <DependentUpon>Barcodescan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cetakpenjualan.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Cetakpenjualan.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dataDokterForm.resx">
+      <DependentUpon>dataDokterForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dataLayananObat.resx">
+      <DependentUpon>dataLayananObat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="doktercrv.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>doktercrv.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dokterreport.resx">
+      <DependentUpon>Dokterreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExcelTransfer.resx">
+      <DependentUpon>ExcelTransfer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Greeting.resx">
+      <DependentUpon>Greeting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ID.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>ID.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IDDokter.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>IDDokter.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KartuDokter.resx">
+      <DependentUpon>KartuDokter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LayananObat.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>LayananObat.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginForm.resx">
+      <DependentUpon>loginForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenuDokter.resx">
+      <DependentUpon>MainMenuDokter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pasien.resx">
+      <DependentUpon>Pasien.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Penjualan.resx">
+      <DependentUpon>Penjualan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PenjualanStruk.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>PenjualanStruk.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="QRscan.resx">
+      <DependentUpon>QRscan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterForm.resx">
+      <DependentUpon>RegisterForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Periksa.resx">
+      <DependentUpon>Periksa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RekamMedis.resx">
+      <DependentUpon>RekamMedis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RekamMedis2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>RekamMedis2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StrukBaru.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>StrukBaru.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestMainUI.resx">
+      <DependentUpon>TestMainUI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transaksi.resx">
+      <DependentUpon>Transaksi.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

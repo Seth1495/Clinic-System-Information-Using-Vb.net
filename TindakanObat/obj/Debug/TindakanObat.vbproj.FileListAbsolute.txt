@@ -1,0 +1,205 @@
+D:\ProjekPraktikum\TindakanObat\TindakanObat\bin\Debug\TindakanObat.exe.config
+D:\ProjekPraktikum\TindakanObat\TindakanObat\bin\Debug\TindakanObat.exe
+D:\ProjekPraktikum\TindakanObat\TindakanObat\bin\Debug\TindakanObat.pdb
+D:\ProjekPraktikum\TindakanObat\TindakanObat\bin\Debug\TindakanObat.xml
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.vbprojResolveAssemblyReference.cache
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.Resources.resources
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.vbproj.GenerateResource.Cache
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.exe
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.xml
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.pdb
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.dataDokterForm.resources
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.dataLayananObat.resources
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.loginForm.resources
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.MainMenu.resources
+D:\ProjekPraktikum\TindakanObat\TindakanObat\obj\Debug\TindakanObat.RegisterForm.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\bin\Debug\TindakanObat.exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\bin\Debug\TindakanObat.exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\bin\Debug\TindakanObat.pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\bin\Debug\TindakanObat.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.dataDokterForm.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.dataLayananObat.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.loginForm.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.MainMenu.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.RegisterForm.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.TestMainUI.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\TindakanObat\TindakanObat\obj\Debug\TindakanObat.vbproj.GenerateResource.Cache
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\TindakanObat.exe.config
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.exe
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.xml
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.pdb
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\TindakanObat.exe
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\TindakanObat.pdb
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\TindakanObat.xml
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.vbprojResolveAssemblyReference.cache
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.dataDokterForm.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.dataLayananObat.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.loginForm.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.MainMenu.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.Resources.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.RegisterForm.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.TestMainUI.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.vbproj.GenerateResource.Cache
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.Dokterreport.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.Report.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\FlashControlV71.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\stdole.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.layananreport.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\AForge.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\AForge.Video.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\zxing.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\zxing.presentation.dll
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\AForge.xml
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\AForge.Video.xml
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\zxing.xml
+C:\Users\X1\Music\TindakanObat\TindakanObat\bin\Debug\zxing.presentation.xml
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.Barcodescan.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.QRscan.resources
+C:\Users\X1\Music\TindakanObat\TindakanObat\obj\Debug\TindakanObat.Transaksi.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.exe.config
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.exe
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.xml
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.pdb
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.exe
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.pdb
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.xml
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\FlashControlV71.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.presentation.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\stdole.dll
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.xml
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.xml
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.xml
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.presentation.xml
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.vbprojResolveAssemblyReference.cache
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Barcodescan.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.dataDokterForm.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.dataLayananObat.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Dokterreport.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.loginForm.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.MainMenu.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Resources.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.QRscan.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.RegisterForm.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Report.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.TestMainUI.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Transaksi.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.vbproj.GenerateResource.Cache
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.KartuDokter.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Penjualan.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Periksa.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.RekamMedis.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Apotek.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.vbproj.ResolveComReference.cache
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.ExcelTransfer.resources
+C:\Users\X1\Music\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Pasien.resources
+C:\Users\LENOVO\Downloads\TindakanObat - Copywa\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.exe.config
+C:\Users\LENOVO\Downloads\TindakanObat - Copywa\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.vbproj.ResolveComReference.cache
+C:\Users\LENOVO\Downloads\TindakanObat - Copywa\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.exe
+C:\Users\LENOVO\Downloads\TindakanObat - Copywa\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.xml
+C:\Users\LENOVO\Downloads\TindakanObat - Copywa\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.pdb
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.exe.config
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.vbproj.ResolveComReference.cache
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.exe
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.xml
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.pdb
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.exe
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.pdb
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\TindakanObat.xml
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.DirectShow.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.Shared.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\FlashControlV71.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.presentation.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\ShockwaveFlashObjects.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\stdole.dll
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.xml
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.xml
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\AForge.Video.DirectShow.xml
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.xml
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\bin\Debug\zxing.presentation.xml
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.vbprojResolveAssemblyReference.cache
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Apotek.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Barcodescan.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.dataDokterForm.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.dataLayananObat.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Dokterreport.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.ExcelTransfer.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Greeting.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.KartuDokter.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.loginForm.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.MainMenu.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.MainMenuDokter.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Resources.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Pasien.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Penjualan.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.QRscan.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.RegisterForm.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Periksa.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.RekamMedis.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Report.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.TestMainUI.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.Transaksi.resources
+D:\Downloads\okan wa\LASTPAPSI\TindakanObat - Copy\TindakanObat\obj\Debug\TindakanObat.vbproj.GenerateResource.Cache
